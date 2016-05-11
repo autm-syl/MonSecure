@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MonSecure_Example', :exclusive => true do
+  pod 'MonSecure', :path => '../'
+end
+
+target 'MonSecure_Tests', :exclusive => true do
+  pod 'MonSecure', :path => '../'
+
+  
+end
