@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = "https://github.com/duplicater>/MonSecure"
+  s.homepage         = "https://github.com/duplicater/MonSecure"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Mon" => "jackylmao@gmail.com" }
